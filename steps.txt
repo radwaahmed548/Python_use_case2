@@ -1,0 +1,5 @@
+1- get the three table in sql server from the previous use case into three pandas dataframes
+2- make the three files joinable
+3- join the three dataframes 
+4- remove everything except e.g (com) the 'website' column
+5- group by the new column and count the number of each domain e.g('com','org')
